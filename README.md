@@ -1,6 +1,6 @@
 # discordTextSpoiler
 
-This is a quick 32 bit program for Windows to format text, so every letter is in a spoiler.  
+This is a quick 32 bit console program for Windows to format text, so every letter is in a spoiler.  
 Example: `Test` -> `||T||||e||||s||||t||`
 
 # Assembling and linking
