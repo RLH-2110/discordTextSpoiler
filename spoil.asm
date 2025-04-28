@@ -78,9 +78,10 @@ end:
 	;print newline
 	push 0x0D
 	call _putchar
+	add esp, 4 
 	push 0x0A
 	call _putchar
-
+	add esp, 4 
 
 	; exit progamm
 	push 0
